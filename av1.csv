@@ -1,0 +1,4 @@
+codec,options,input_size,output_size,evaluation_result,elapsed_time,crf,speed,bitrate
+av1,"{'crf': 30, 'speed': 8, 'bitrate': None, 'threads': '492063'}",313907,466952,47.901434,452.9209680557251,30,8,
+av1,"{'crf': 30, 'speed': 8, 'bitrate': None, 'threads': '492530'}",314204,483673,46.953364,399.90756034851074,30,8,
+av1,"{'crf': 30, 'speed': 8, 'bitrate': None, 'threads': '485922'}",310009,497256,47.605341,381.2026300430298,30,8,
